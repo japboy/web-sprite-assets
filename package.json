@@ -1,0 +1,22 @@
+{
+  "name": "web-sprite-assets",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yu Inao",
+  "license": "",
+  "private": true,
+  "engines": {
+    "node": "^6.9.5",
+    "npm": "^3.10.10"
+  },
+  "devDependencies": {
+    "globby": "^6.1.0",
+    "spritesmith": "^3.1.0"
+  }
+}
